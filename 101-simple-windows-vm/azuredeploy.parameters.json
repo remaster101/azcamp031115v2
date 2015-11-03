@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "dmgstore1"
+      "value": "spmstore1"
     },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "Passw0rd!"
+      "value": "Pa$$w0rd!"
     },
     "dnsNameForPublicIP": {
-      "value": "dmg6685"
+      "value": "spm101169"
     },
     "location": {
       "value": "West US"
